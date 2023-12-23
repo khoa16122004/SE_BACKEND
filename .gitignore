@@ -10,5 +10,5 @@ __pycache__/
 # Database
 listen.db
 # Editor directories and files
-SE_BACKEND
-fastapi
+SE_BACKEND/
+fastapi/
